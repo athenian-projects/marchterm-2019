@@ -24,14 +24,14 @@
 * Review [MkDocs](http://www.mkdocs-demo.org)
 
 ## Fri 3/15
+* Off
+
+## Mon 3/18
 * Review [JSON](https://beginnersbook.com/2015/04/json-tutorial/)
 * Review [REST](https://github.com/athenian-programming/web-services-demo)
 
-## Mon 3/18
-* Review [ROS](https://github.com/athenian-programming/ros-demos) 
-
 ## Tues 3/19
-* Build day
+* Review [ROS](https://github.com/athenian-programming/ros-demos) 
 
 ## Wed 3/20
 * Build day
