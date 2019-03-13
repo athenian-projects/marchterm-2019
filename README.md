@@ -1,1 +1,51 @@
-# marchterm-2019
+# March Term 2019 Notes
+
+## Links
+
+* [Teleop Navigation Options](https://github.com/athenian-programming/teleop-navigation)
+* [Git](http://www.athenian-robotics.org/git/)
+* [Markdown](http://www.athenian-robotics.org/markdown/)
+* [MkDocs Demo](http://www.mkdocs-demo.org)
+* [Web Services Demo](https://github.com/athenian-programming/web-services-demo)
+* [ROS Demo](https://github.com/athenian-programming/ros-demos)
+
+
+## Wed 3/13
+* Intro 
+* Discuss [teleop navigation options](https://github.com/athenian-programming/teleop-navigation)
+* Brainstorm ideas
+
+## Thurs 3/14
+* Install Pycharm
+* Sign-up for [github](https://github.com)
+* Install and review [git](http://www.athenian-robotics.org/git/)
+* Review [Markdown](http://www.athenian-robotics.org/markdown/)
+* Review [MkDocs](http://www.mkdocs-demo.org)
+
+## Fri 3/15
+* Review [Rest](https://github.com/athenian-programming/web-services-demo)
+
+## Mon 3/18
+* Review [ROS](https://github.com/athenian-programming/ros-demos) 
+
+## Tues 3/19
+
+## Wed 3/20
+
+## Thurs 3/21
+
+## Fri 3/22
+
+## Mon 3/25
+
+## Tues 3/26
+
+## Wed 3/27
+
+## Thurs 3/28
+
+## Fri 3/29
+
+## Mon 4/1
+
+## Tues 4/2
