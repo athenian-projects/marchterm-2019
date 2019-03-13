@@ -35,10 +35,10 @@
 * Build day
 
 ## Thurs 3/21
-* Build day
+* FRC
 
 ## Fri 3/22
-* Build day
+* FRC
 
 ## Mon 3/25
 * Build day
