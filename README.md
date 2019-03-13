@@ -14,11 +14,11 @@
 * Intro 
 * Discuss [teleop navigation options](https://github.com/athenian-programming/teleop-navigation)
 * Brainstorm ideas
-* Install [Pycharm](https://www.jetbrains.com/pycharm/)
+* Install [PyCharm](https://www.jetbrains.com/pycharm/)
 
 ## Thurs 3/14
 * Sign-up for [github](https://github.com)
-* Install and review [git](http://www.athenian-robotics.org/git/)
+* Review [git](http://www.athenian-robotics.org/git/)
 * Review [Markdown](http://www.athenian-robotics.org/markdown/)
 * Review [MkDocs](http://www.mkdocs-demo.org)
 
