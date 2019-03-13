@@ -29,23 +29,34 @@
 * Review [ROS](https://github.com/athenian-programming/ros-demos) 
 
 ## Tues 3/19
+* Build day
 
 ## Wed 3/20
+* Build day
 
 ## Thurs 3/21
+* Build day
 
 ## Fri 3/22
+* Build day
 
 ## Mon 3/25
+* Build day
 
 ## Tues 3/26
+* Build day
 
 ## Wed 3/27
+* Build day
 
 ## Thurs 3/28
+* Build day
 
 ## Fri 3/29
+* Build day
 
 ## Mon 4/1
+* Build day
 
 ## Tues 4/2
+* Demo day
