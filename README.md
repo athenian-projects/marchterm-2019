@@ -6,7 +6,7 @@
 * [Git](http://www.athenian-robotics.org/git/)
 * [Markdown](http://www.athenian-robotics.org/markdown/)
 * [MkDocs Demo](http://www.mkdocs-demo.org)
-* [Web Services Demo](https://github.com/athenian-programming/web-services-demo)
+* [REST Demo](https://github.com/athenian-programming/web-services-demo)
 * [ROS Demo](https://github.com/athenian-programming/ros-demos)
 
 
@@ -14,16 +14,16 @@
 * Intro 
 * Discuss [teleop navigation options](https://github.com/athenian-programming/teleop-navigation)
 * Brainstorm ideas
+* Install [Pycharm](https://www.jetbrains.com/pycharm/)
 
 ## Thurs 3/14
-* Install Pycharm
 * Sign-up for [github](https://github.com)
 * Install and review [git](http://www.athenian-robotics.org/git/)
 * Review [Markdown](http://www.athenian-robotics.org/markdown/)
 * Review [MkDocs](http://www.mkdocs-demo.org)
 
 ## Fri 3/15
-* Review [Rest](https://github.com/athenian-programming/web-services-demo)
+* Review [REST](https://github.com/athenian-programming/web-services-demo)
 
 ## Mon 3/18
 * Review [ROS](https://github.com/athenian-programming/ros-demos) 
