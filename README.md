@@ -23,6 +23,7 @@
 * Review [MkDocs](http://www.mkdocs-demo.org)
 
 ## Fri 3/15
+* Review [JSON](https://beginnersbook.com/2015/04/json-tutorial/)
 * Review [REST](https://github.com/athenian-programming/web-services-demo)
 
 ## Mon 3/18
