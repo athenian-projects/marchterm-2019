@@ -16,9 +16,10 @@
 * Discuss [teleop navigation options](https://github.com/athenian-programming/teleop-navigation)
 * Brainstorm ideas
 * Install [PyCharm](https://www.jetbrains.com/pycharm/)
+* Sign-up for [github](https://github.com)
+* Sign-up for [Heroku](https://heroku.com)
 
 ## Thurs 3/14
-* Sign-up for [github](https://github.com)
 * Review [git](http://www.athenian-robotics.org/git/)
 * Review [Markdown](http://www.athenian-robotics.org/markdown/)
 * Review [MkDocs](http://www.mkdocs-demo.org)
@@ -62,3 +63,10 @@
 
 ## Tues 4/2
 * Demo day
+
+
+## Ideas
+* Glove
+* Trellio
+* Voice control
+* Facial recognition
