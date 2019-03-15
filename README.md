@@ -20,22 +20,23 @@
 * Sign-up for [Heroku](https://heroku.com)
 
 ## Thurs 3/14
+* Review [vim](http://www.athenian-robotics.org/vim/)
 * Review [git](http://www.athenian-robotics.org/git/)
-* Review [Markdown](http://www.athenian-robotics.org/markdown/)
-* Review [MkDocs](http://www.mkdocs-demo.org)
 
 ## Fri 3/15
 * Off
 
 ## Mon 3/18
+* Review [Markdown](http://www.athenian-robotics.org/markdown/)
+* Review [Unix commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
+* Review [MkDocs](http://www.mkdocs-demo.org)
+
+## Tues 3/19
 * Review [JSON](https://beginnersbook.com/2015/04/json-tutorial/)
 * Review [REST](https://github.com/athenian-programming/web-services-demo)
 
-## Tues 3/19
-* Review [ROS](https://github.com/athenian-programming/ros-demos) 
-
 ## Wed 3/20
-* Build day
+* Review [ROS](https://github.com/athenian-programming/ros-demos) 
 
 ## Thurs 3/21
 * FRC
